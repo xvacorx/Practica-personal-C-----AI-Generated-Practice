@@ -1,3 +1,4 @@
+
 1. Dado un arreglo de números enteros, mostrar los números pares en el arreglo.
 
 2. Ingresar por pantalla los nombres de 5 personas y almacenarlos en un arreglo. Luego, mostrar los nombres en orden inverso al ingresado.
